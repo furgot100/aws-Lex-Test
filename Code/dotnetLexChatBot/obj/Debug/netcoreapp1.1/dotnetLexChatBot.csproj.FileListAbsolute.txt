@@ -1,0 +1,16 @@
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/appsettings.Development.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/appsettings.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/bower.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/bundleconfig.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/dotnetLexChatBot.deps.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/dotnetLexChatBot.runtimeconfig.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/dotnetLexChatBot.runtimeconfig.dev.json
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/dotnetLexChatBot.dll
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/bin/Debug/netcoreapp1.1/dotnetLexChatBot.pdb
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.csprojAssemblyReference.cache
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.AssemblyInfoInputs.cache
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.AssemblyInfo.cs
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.csproj.CoreCompileInputs.cache
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.dll
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.pdb
+/Users/francistsang/projects/spd/test/aws-lex-net-chatbot/Code/dotnetLexChatBot/obj/Debug/netcoreapp1.1/dotnetLexChatBot.genruntimeconfig.cache
